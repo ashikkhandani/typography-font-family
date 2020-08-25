@@ -1,0 +1,19 @@
+h1,
+h2,
+h3 {
+  font-family: "Bebas Neue", cursive;
+  font-family: "Russo One", sans-serif;
+  text-transform: uppercase;
+  text-shadow: 1px 1px rgb(14, 13, 13);
+}
+
+main {
+  font-family: Arial, Helvetica, Verdana, Geneva, Tahoma, sans-serif;
+}
+p .code {
+  font-family: "Courier New", Courier, monospace;
+}
+
+ul {
+  list-style-type: square;
+}
